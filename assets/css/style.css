@@ -1,0 +1,8 @@
+.bg-slider{
+    height: 800px;
+    background-image: url(../images/pexels-pramodtiwari-13564604.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
